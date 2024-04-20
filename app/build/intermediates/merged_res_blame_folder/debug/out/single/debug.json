@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_speed.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_speed.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_lovely_time.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/lovely_time.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_periodic_table.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_periodic_table.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_calendar.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/calendar.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_clg.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/clg.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_tr.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_tr.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient5.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient5.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_angle.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_angle.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient8.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient8.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_periodic_table.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/periodic_table.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-mdpi_ic_down.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-mdpi/ic_down.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient13.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient13.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_volume.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/volume.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-pngs-30:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_family_time.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/family_time.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_sin.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/sin.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/xml_backup_rules.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_ic_down.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/ic_down.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient10.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient10.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_nb.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_nb.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_weight.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_weight.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_time.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/time.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_numbers.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/numbers.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_temp.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/temp.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient9.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient9.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable_gradient1.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable/gradient1.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_friends.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/friends.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_area.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_area.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient2.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient2.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_volume.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_volume.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_ratios.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/ratios.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_temperature.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/temperature.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient3.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient3.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_angle.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/angle.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_team_time.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/team_time.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_periodic.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/periodic.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient11.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient11.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient6.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient6.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_data.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_data.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_weight.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/weight.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_speed.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/speed.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_theta.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/theta.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_data.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/data.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_wheel.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/wheel.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_length.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_length.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_me_time.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/me_time.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient4.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient4.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/xml_data_extraction_rules.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_wallpaperflare.jpg.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/wallpaperflare.jpg"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_bg.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/bg.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-xhdpi_ic_down.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-xhdpi/ic_down.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-xxhdpi_ic_down.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-xxhdpi/ic_down.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient12.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient12.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_time.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_time.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_area.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/area.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-hdpi_gradient7.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-hdpi/gradient7.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-v24_length.png.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-v24/length.png"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/drawable-anydpi_ic_down.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/drawable-anydpi/ic_down.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_temperature.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_temperature.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-37:/layout/activity_main.xml"
+    }
+]

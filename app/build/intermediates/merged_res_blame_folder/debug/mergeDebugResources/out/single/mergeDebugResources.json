@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-xhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient13.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_ratios.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\ratios.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_speed.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\speed.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_weight.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_weight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_theta.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\theta.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_wallpaperflare.jpg.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\wallpaperflare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient7.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient7.xml"
+    },
+    {
+        "merged": "com.Vaibhav.unitconverter.app-debug-34:/layout_activity_periodic_table.xml.flat",
+        "source": "com.Vaibhav.unitconverter.app-main-36:/layout/activity_periodic_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_wheel.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\wheel.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_lovely_time.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\lovely_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient2.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_periodic_table.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\periodic_table.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_clg.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\clg.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_tr.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_tr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-anydpi_ic_down.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-anydpi\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_friends.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_data.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient9.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_time.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient12.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_temperature.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_temperature.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-mdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-mdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_family_time.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\family_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_weight.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\weight.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient6.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient3.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_area.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\area.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_volume.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_angle.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_angle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_me_time.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\me_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_sin.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\sin.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_volume.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\volume.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_length.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_length.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_length.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\length.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_nb.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_nb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient11.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient5.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient4.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-xxhdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-xxhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_periodic_table.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_periodic_table.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_speed.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_speed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\layout_activity_area.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\layout\\activity_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_time.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\time.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_periodic.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\periodic.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_temp.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_data.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\data.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_ic_down.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient10.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_numbers.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\numbers.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_angle.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\angle.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_team_time.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\team_time.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable_gradient1.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable\\gradient1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_bg.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_calendar.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-v24_temperature.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-v24\\temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-debug-34:\\drawable-hdpi_gradient8.xml.flat",
+        "source": "C:\\Users\\Vaibhav Pratap Singh\\.gradle\\daemon\\8.4\\com.Vaibhav.unitconverter.app-main-36:\\drawable-hdpi\\gradient8.xml"
+    }
+]

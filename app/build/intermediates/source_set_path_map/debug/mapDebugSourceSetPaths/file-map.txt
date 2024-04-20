@@ -1,0 +1,37 @@
+com.Vaibhav.unitconverter.app-startup-runtime-1.1.1-0 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\045a35d1a020e163ad1d8fcaa2049815\transformed\startup-runtime-1.1.1\res
+com.Vaibhav.unitconverter.app-lifecycle-process-2.4.1-1 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\06d0f007e74d1631a5f90f90e54b04ca\transformed\lifecycle-process-2.4.1\res
+com.Vaibhav.unitconverter.app-lifecycle-viewmodel-savedstate-2.5.1-2 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\09ab0a3f2ef2807cb6a0bc36fccb0781\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.Vaibhav.unitconverter.app-core-1.8.0-3 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\1af53a5f3289b56ea2bc37dec86f0eff\transformed\core-1.8.0\res
+com.Vaibhav.unitconverter.app-activity-1.5.1-4 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\223e603f9538d5793f4afb48c0666255\transformed\activity-1.5.1\res
+com.Vaibhav.unitconverter.app-annotation-experimental-1.1.0-5 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\37090576e6de6da882cfcef8b8dfb647\transformed\annotation-experimental-1.1.0\res
+com.Vaibhav.unitconverter.app-drawerlayout-1.1.1-6 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\450da67d48928c51c76b8e31af2e7555\transformed\drawerlayout-1.1.1\res
+com.Vaibhav.unitconverter.app-material-1.6.1-7 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\4b0f174a75c194a151bb12489bebada1\transformed\material-1.6.1\res
+com.Vaibhav.unitconverter.app-play-services-basement-17.6.0-8 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\5401b7702a93443ef97f84dd88c38018\transformed\play-services-basement-17.6.0\res
+com.Vaibhav.unitconverter.app-transition-1.2.0-9 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\5983275a03c6ee514e5e4400f2c7505f\transformed\transition-1.2.0\res
+com.Vaibhav.unitconverter.app-browser-1.0.0-10 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\6491c8bbb04e80a2df1e51ac9539eecf\transformed\browser-1.0.0\res
+com.Vaibhav.unitconverter.app-savedstate-1.2.0-11 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\810adbd7527efc84c0dac8c324e8006c\transformed\savedstate-1.2.0\res
+com.Vaibhav.unitconverter.app-play-services-base-17.6.0-12 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\871f7cf98c8fe10f0ec6a017dc981e96\transformed\play-services-base-17.6.0\res
+com.Vaibhav.unitconverter.app-cardview-1.0.0-13 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\963789b6e1dd17987c10806ebe665936\transformed\cardview-1.0.0\res
+com.Vaibhav.unitconverter.app-lifecycle-runtime-2.5.1-14 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\97d125c6047ff8aaf1093065d49e61f8\transformed\lifecycle-runtime-2.5.1\res
+com.Vaibhav.unitconverter.app-constraintlayout-2.1.4-15 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\acc56f3798599ac23b2ec97b1be9ca58\transformed\constraintlayout-2.1.4\res
+com.Vaibhav.unitconverter.app-lifecycle-viewmodel-2.5.1-16 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\b97334a516395cdd583e67b75c57ae12\transformed\lifecycle-viewmodel-2.5.1\res
+com.Vaibhav.unitconverter.app-recyclerview-1.1.0-17 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\bb962950bf1999403af52d409d1eda91\transformed\recyclerview-1.1.0\res
+com.Vaibhav.unitconverter.app-core-ktx-1.8.0-18 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\cd3bf9130cd8cd91bff0d47f677b8256\transformed\core-ktx-1.8.0\res
+com.Vaibhav.unitconverter.app-lifecycle-livedata-core-2.5.1-19 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\d37f55e4bb58ef729df71d28e668bf96\transformed\lifecycle-livedata-core-2.5.1\res
+com.Vaibhav.unitconverter.app-emoji2-views-helper-1.2.0-20 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\d5078f285bca7a56bab107e9e6798d40\transformed\emoji2-views-helper-1.2.0\res
+com.Vaibhav.unitconverter.app-fragment-1.3.6-21 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\d90a354e6fb9638eb3c03c15ab483fc0\transformed\fragment-1.3.6\res
+com.Vaibhav.unitconverter.app-play-services-ads-lite-20.5.0-22 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\db32874e8b094a0093fecd3668713761\transformed\play-services-ads-lite-20.5.0\res
+com.Vaibhav.unitconverter.app-appcompat-resources-1.5.1-23 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\dd5625979ca8760f7718be80cf661b5e\transformed\appcompat-resources-1.5.1\res
+com.Vaibhav.unitconverter.app-work-runtime-2.7.0-24 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\e68f11eae0b86ce80afadbf046c97486\transformed\work-runtime-2.7.0\res
+com.Vaibhav.unitconverter.app-coordinatorlayout-1.1.0-25 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\ec3b33ff9c821584a0693dc9b6751dd3\transformed\coordinatorlayout-1.1.0\res
+com.Vaibhav.unitconverter.app-emoji2-1.2.0-26 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\f101b5aa09efe06357e76a0207277e8a\transformed\emoji2-1.2.0\res
+com.Vaibhav.unitconverter.app-appcompat-1.5.1-27 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\f8a032f3aadab2dbcb4603847c984d87\transformed\appcompat-1.5.1\res
+com.Vaibhav.unitconverter.app-viewpager2-1.0.0-28 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\fa4d702afdae67e5cf79f192b81dce77\transformed\viewpager2-1.0.0\res
+com.Vaibhav.unitconverter.app-play-services-ads-20.5.0-29 C:\Users\Vaibhav Pratap Singh\.gradle\caches\transforms-3\fc0144d91c7f3a59f28edba9d81ccc95\transformed\play-services-ads-20.5.0\res
+com.Vaibhav.unitconverter.app-pngs-30 D:\UnitConverter\app\build\generated\res\pngs\debug
+com.Vaibhav.unitconverter.app-resValues-31 D:\UnitConverter\app\build\generated\res\resValues\debug
+com.Vaibhav.unitconverter.app-packageDebugResources-32 D:\UnitConverter\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.Vaibhav.unitconverter.app-packageDebugResources-33 D:\UnitConverter\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.Vaibhav.unitconverter.app-debug-34 D:\UnitConverter\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.Vaibhav.unitconverter.app-debug-35 D:\UnitConverter\app\src\debug\res
+com.Vaibhav.unitconverter.app-main-36 D:\UnitConverter\app\src\main\res
